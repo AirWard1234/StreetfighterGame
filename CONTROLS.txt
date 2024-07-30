@@ -1,0 +1,11 @@
+PLAYER 1:
+	WALK = A, D
+	JUMP = W
+	ATTACK 1 = Q
+	ATTACK 2 = E
+
+PLAYER 2:
+	WALK = J, L
+	JUMP = I
+	ATTACK 1 = U
+	ATTACK 2 = O
